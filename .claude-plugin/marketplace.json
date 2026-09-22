@@ -1,0 +1,14 @@
+{
+  "name": "facebook-skills",
+  "owner": {
+    "name": "Facebook Skills contributors"
+  },
+  "plugins": [
+    {
+      "name": "facebook-skills",
+      "source": "./.codex-plugin",
+      "description": "Twelve draft-first Facebook workflows for Page posts, event promotion, community replies, and campaign planning.",
+      "version": "1.0.0"
+    }
+  ]
+}

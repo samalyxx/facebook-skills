@@ -1,0 +1,31 @@
+{
+  "name": "facebook-skills",
+  "description": "Twelve draft-first Facebook workflows for Page posts, event promotion, community replies, and campaign planning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Facebook Skills contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "x",
+    "content-operations",
+    "agent-skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Facebook Skills",
+    "shortDescription": "Draft-first Facebook operations.",
+    "longDescription": "Original evidence-led workflows for Page posts, event promotion, community replies, and campaign planning.",
+    "developerName": "Facebook Skills contributors",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "websiteURL": "https://facebook.com",
+    "defaultPrompt": [
+      "Draft a Facebook post from these verified notes.",
+      "Create a Facebook content plan from this brief."
+    ]
+  }
+}

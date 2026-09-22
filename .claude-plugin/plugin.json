@@ -1,0 +1,14 @@
+{
+  "name": "facebook-skills",
+  "description": "Twelve draft-first Facebook workflows for Page posts, event promotion, community replies, and campaign planning.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Facebook Skills contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "x",
+    "content-operations",
+    "agent-skills"
+  ]
+}
